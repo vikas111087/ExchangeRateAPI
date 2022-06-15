@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "b21985c7-8dd0-484f-9eb0-99aef6de0944",
+		"name": "GetExchangeRatesByDates",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GetExchangeRatesByDates",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true,
+				"strictSSL": false
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"dates\": [\"2022-05-01\", \"2022-05-15\", \"2022-06-01\"],\n\t\"baseCurrency\": \"AUD\",\n\t\"targetCurrency\": \"INR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/exchangerate/GetExchangeRatesByDates",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"exchangerate",
+						"GetExchangeRatesByDates"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
