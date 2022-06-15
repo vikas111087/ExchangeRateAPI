@@ -1,0 +1,20 @@
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRate.Business/bin/Debug/netcoreapp3.1/ExchangeRate.Business.deps.json
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRate.Business/bin/Debug/netcoreapp3.1/ExchangeRate.Business.dll
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRate.Business/bin/Debug/netcoreapp3.1/ExchangeRate.Business.pdb
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.csproj.AssemblyReference.cache
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.AssemblyInfoInputs.cache
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.AssemblyInfo.cs
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.csproj.CoreCompileInputs.cache
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.dll
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.pdb
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/bin/Debug/netcoreapp3.1/ExchangeRate.Business.deps.json
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/bin/Debug/netcoreapp3.1/ExchangeRate.Business.dll
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/bin/Debug/netcoreapp3.1/ExchangeRate.Business.pdb
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.csproj.AssemblyReference.cache
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.AssemblyInfoInputs.cache
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.AssemblyInfo.cs
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.csproj.CoreCompileInputs.cache
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.dll
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/obj/Debug/netcoreapp3.1/ExchangeRate.Business.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PN7AESqga3FMsxZ8BEKYo2+QxC3EGFnJWW6u7WAm5n41tK8heQj/CAeY4IfrXUjrNqAogXIh6cyFtEEAEqrUoA==",
+  "success": true,
+  "projectFilePath": "/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/ExchangeRateAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/vikas/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

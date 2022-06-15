@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/ExchangeRate.Business.csproj": {}
+  },
+  "projects": {
+    "/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/ExchangeRate.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/ExchangeRate.Business.csproj",
+        "projectName": "ExchangeRate.Business",
+        "projectPath": "/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/ExchangeRate.Business.csproj",
+        "packagesPath": "/Users/vikas/.nuget/packages/",
+        "outputPath": "/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRate.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vikas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

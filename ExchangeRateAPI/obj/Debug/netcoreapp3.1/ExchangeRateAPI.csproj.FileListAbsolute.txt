@@ -1,0 +1,49 @@
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/bin/Debug/netcoreapp3.1/appsettings.json
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRateAPI.exe
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRateAPI.deps.json
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRateAPI.runtimeconfig.json
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRateAPI.runtimeconfig.dev.json
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRateAPI.dll
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRateAPI.pdb
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.csproj.AssemblyReference.cache
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.AssemblyInfoInputs.cache
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.AssemblyInfo.cs
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.csproj.CoreCompileInputs.cache
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.MvcApplicationPartsAssemblyInfo.cache
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/staticwebassets/ExchangeRateAPI.StaticWebAssets.Manifest.cache
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/staticwebassets/ExchangeRateAPI.StaticWebAssets.xml
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/scopedcss/bundle/ExchangeRateAPI.styles.css
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.RazorTargetAssemblyInfo.cache
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.dll
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.pdb
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.genruntimeconfig.cache
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.csproj.CopyComplete
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRate.Business.dll
+D:/SampleWorks/Tasks/ExchangeRateAPI/ExchangeRateAPI/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRate.Business.pdb
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRateAPI.StaticWebAssets.xml
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRateAPI
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRateAPI.deps.json
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRateAPI.runtimeconfig.json
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRateAPI.runtimeconfig.dev.json
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRateAPI.dll
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRateAPI.pdb
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRate.Business.dll
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/bin/Debug/netcoreapp3.1/ExchangeRate.Business.pdb
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.csproj.AssemblyReference.cache
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.AssemblyInfoInputs.cache
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.AssemblyInfo.cs
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.csproj.CoreCompileInputs.cache
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/obj/Debug/netcoreapp3.1/staticwebassets/ExchangeRateAPI.StaticWebAssets.Manifest.cache
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.RazorTargetAssemblyInfo.cache
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.csproj.CopyComplete
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.dll
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.pdb
+/Users/vikas/Downloads/ExchangeRateAPI 2/ExchangeRateAPI/obj/Debug/netcoreapp3.1/ExchangeRateAPI.genruntimeconfig.cache
